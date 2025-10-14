@@ -7,7 +7,6 @@ from django.db.models import Q
 from django.utils import timezone
 from django.contrib.auth import login, logout
 from django.contrib.auth.models import User
-
 from .models import Todo, Category
 from .serializers import (
     TodoSerializer, CategorySerializer, TodoCreateSerializer,
