@@ -1,5 +1,5 @@
 ## Project URL
-https://github.com/zeynab-gh/todo_list.git
+http://zeynab.pythonanywhere.com/api/todos/
 
 
 # 🚀 Django Todo API
