@@ -1,5 +1,10 @@
+## Project URL
+https://github.com/zeynab-gh/todo_list.git
+
+
 # 🚀 Django Todo API
-link project :https://github.com/zeynab-gh/todo_list.git
+
+
 A simple and powerful API for managing daily tasks, built with Django REST Framework.
 
 
