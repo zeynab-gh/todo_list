@@ -53,6 +53,7 @@ source venv/bin/activate  # Linux/Mac
 # or
 venv\Scripts\activate  # Windows
 3.Install dependencies
+pip install -r requirements.txt
 4.Run migrations
 python manage.py migrate
 5.Create superuser
