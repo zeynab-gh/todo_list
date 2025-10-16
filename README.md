@@ -50,7 +50,7 @@ A simple and powerful API for managing daily tasks, built with Django REST Frame
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/django-todo.git
+
 cd django-todo
 2.Create virtual environment
 python -m venv venv
