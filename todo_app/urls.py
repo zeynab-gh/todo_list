@@ -15,7 +15,7 @@ router.register(r'todos', TodoViewSet, basename='todo')
 router.register(r'categories', CategoryViewSet, basename='category')
 
 urlpatterns = [
-    path('api/', include(router.urls)),
+    path('', include(router.urls)),
     
     # Authentication URLs
     path('api/auth/register/', UserRegistrationView.as_view(), name='register'),
