@@ -1,5 +1,4 @@
-## Project URL
-http://zeynab.pythonanywhere.com/api/todos/
+
 
 
 # 🚀 Django Todo API
