@@ -62,4 +62,8 @@ pip install -r requirements.txt
 4.Run migrations
 python manage.py migrate
 5.Create superuser
+<<<<<<< HEAD
 python manage.py runserver
+=======
+python manage.py runserver
+>>>>>>> ab1a618bfcbdeb3b300cf123ae24832cf0836dd1
