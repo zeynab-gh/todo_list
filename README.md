@@ -1,5 +1,5 @@
 https://project-todo.liara.run/
-https://github.com/zeynab-gh/todo_list/
+
 
 
 # 🚀 Django Todo API
@@ -50,7 +50,7 @@ A simple and powerful API for managing daily tasks, built with Django REST Frame
 
 1. **Clone the repository**
 ```bash
-
+https://github.com/zeynab-gh/todo_list.git
 cd django-todo
 2.Create virtual environment
 python -m venv venv
